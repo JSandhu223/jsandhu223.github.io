@@ -1,11 +1,10 @@
 ---
-title: osTicket Post-Installation Configuration
+title: osTicket Part 2 - Post-Installation Configuration
 date: 2024-09-27 12:50:00 -0600
 categories: [Ticketing Systems, Linux]
 tags: [vm, tickets, linux, debian, sql, apache, sla]     # TAG names should always be lowercase
+description: This lab covers the post-install configuration of osTicket. Here we will configure agents, roles, and SLAs, so that it is ready for use in an organization.
 ---
-
-This lab covers the post-install configuration of osTicket.
 
 <!-- 
 <h2>Video Demonstration</h2>

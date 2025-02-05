@@ -3,14 +3,8 @@ title: Inspecting Network Traffic with Wireshark
 date: 2024-09-16 15:31:00 -0600
 categories: [Wireshark, Microsoft Azure]
 tags: [cloud, azure, wireshark]     # TAG names should always be lowercase
+description: In this lab, we utilize Wireshark and Azure Virtual Machines to observe various types of network traffic, as well as experiment with Azure Network Security Groups.
 ---
-
-<!-- <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="image" alt="Traffic Examination"/>
-</p> -->
-
-<h2>Overview</h2>
-In this lab, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 <!--
 <h2>Video Demonstration</h2>
