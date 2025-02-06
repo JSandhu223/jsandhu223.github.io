@@ -1,7 +1,7 @@
 ---
 title: osTicket Part 1 - Installation on Debian 12
 date: 2024-09-24 21:29:00 -0600
-categories: [Ticketing Systems, Linux]
+categories: [IT, Ticketing Systems]
 tags: [vm, tickets, linux, debian, sql, apache]     # TAG names should always be lowercase
 description: This lab covers the prerequisites and installation of the open-source ticketing system osTicket in a virtual Linux environment.
 ---
